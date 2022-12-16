@@ -1,4 +1,4 @@
-# VOICEROIDやVOICEVOXによる読み上げbot
+# VOICEBOT
 VOICEROIDやVOICEVOXにチャットを読んでもらえます。VOICEROIDを所持していることを前提としたbotです。
 
 # 動作環境
